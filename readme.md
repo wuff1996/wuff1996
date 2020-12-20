@@ -1,1 +1,1 @@
-![img](pic/einstein.jgp)
+![img](pic/einstein.jpg)
